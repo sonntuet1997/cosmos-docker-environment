@@ -1,3 +1,4 @@
+.idea
 .dockerignore
 docker-compose.yml
 Dockerfile
